@@ -2,7 +2,7 @@
 
 This is a local version of real-avatar that enables the creation of avatar's locally on my personal computer
 
-# General Idea of development
+# [General Idea of development](https://chatgpt.com/share/681e4a67-836c-8011-89b6-fd31b9b98380)
 
 1. System Architecture
 
